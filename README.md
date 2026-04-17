@@ -85,7 +85,37 @@ ping 10.0.0.2
 ---
 
 ## Screenshots
+## Performance Evaluation
 
+### Before Firewall
+![Ping Success](ping_success.jpeg)
+
+---
+
+### After Firewall
+![Ping Blocked](ping_blocked.jpeg)
+
+---
+
+### Controller Logs
+![Logs](logs.jpeg)
+
+---
+
+
+
+### Controller Running
+![Controller](controller.jpeg)
+
+---
+
+### Mininet Topology
+![Mininet](mininet.jpeg)
+
+---
+
+### Host Terminals
+![xterm](xterm.jpeg)
 
 
 ---
